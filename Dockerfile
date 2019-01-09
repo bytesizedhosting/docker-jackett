@@ -40,5 +40,5 @@ RUN \
 COPY root/ /
 
 # ports and volumes
-VOLUME /config /downloads
+VOLUME /config /data
 EXPOSE 9117
